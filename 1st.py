@@ -21,9 +21,8 @@ purple="\033[3;34m"
 yellow="\033[3;33m"
 voilet="\033[3;35m"
 
-            def hero():
+def hero():
     def chalo():
-
         done = False
         #here is the animation
         def animate():
